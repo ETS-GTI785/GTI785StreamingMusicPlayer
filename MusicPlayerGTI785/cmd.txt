@@ -1,0 +1,7 @@
+cd C:\Users\tonyd\AppData\Local\Android\sdk\tools
+
+telnet localhost 5554
+
+auth ZQItBvxoQWutoc7Z
+
+redir add tcp:5000:7000

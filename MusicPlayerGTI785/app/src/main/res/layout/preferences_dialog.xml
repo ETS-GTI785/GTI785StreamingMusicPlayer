@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent" >
+    
+    <Button
+        android:id="@+id/dialogButtonOK"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:text=" OK "
+        android:layout_marginTop="26dp"
+        android:layout_below="@+id/editText_adresseIP"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:id="@+id/textView_port"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:text="@string/pref_port_summ"
+        android:textAlignment="center"
+        android:textSize="15dp" />
+
+    <EditText
+        android:id="@+id/portEditText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginLeft="0dp"
+        android:textSize="15dp"
+        android:padding="10dp"
+        android:inputType="number"
+        android:layout_toRightOf="@id/textView_port"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true" />
+
+    <TextView
+        android:id="@+id/textView_adresseIP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView_port"
+        android:layout_alignStart="@+id/textView_port"
+        android:layout_below="@+id/textView_port"
+        android:layout_marginTop="14dp"
+        android:padding="10dp"
+        android:text="@string/pref_adresseIP"
+        android:textSize="15dp" />
+
+    <EditText
+        android:id="@+id/editText_adresseIP"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:inputType="text"
+        android:layout_alignBottom="@+id/textView_adresseIP"
+        android:layout_toRightOf="@+id/textView_adresseIP"
+        android:layout_marginLeft="17dp"
+        android:layout_marginStart="17dp"
+        android:layout_alignRight="@+id/portEditText"
+        android:layout_alignEnd="@+id/portEditText" />
+
+
+</RelativeLayout>

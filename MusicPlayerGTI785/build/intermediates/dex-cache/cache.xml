@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\tonyd\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.5_f5b448ec626969ddd0b425216c56c9d3f84baf6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_24a9b65f3a6b3bada6ab1425d91fcc5475704c3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b51d22a49e896a2c0809b9e74ea90e4e100b9a61">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_478d0ee4275aa25fc21b068718b32b88befe928e\classes.dex" />
+    </item>
+
+</items>

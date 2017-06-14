@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\19828a7ce8fbed4dd50a097d86e307dc6b5bf651\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-45014974710c067c9fc13d7a8c952f58f62f3f38.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\constraint-layout-solver-1.0.2-ad584f5c321981ecbe1dd82195f1d05adcaf51c6.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\d2ad3e67dc327a44cd3992456697932f6856122d\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-a382dfabc8e9f43b18b71ca38b6bc178c8847080.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\e2382bde12bc900222c818bbee9bc5e183e3aa74\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c2a8b1f00a83afdf6a22c7b5a5fa2ad1c8d3ccf5.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\AppData\Local\Android\Sdk\platforms\android-25\android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-8ce4414d0d8efe859a44a24a5a7d66d63a28fdfd.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\31f23150c94dbbc920bd3b8748cf63e011069fbc\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-8f72ff472d26830c4605806597ad3bc5caf3fa09.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\b7f15ba3bb180e3e73a69b597196800b2b5aef5c\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-98e1853deec6cf311ac608d9cd9be7b32a04062c.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\56aef043f3ea0b9ca97eaf7aabb2ea92f29374ce\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-c728e4139b84e67e186498bb25e61a9dc0caadfa.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\3ae1c904b139e76af051cb44699c71ed4c4611a5\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-b56d3166804f031ec6552d533936aec3233ae931.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.2\f1bc476cc167b18e66c297df599b2377131a8947\gson-2.6.2.jar"
+        revision="25.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\gson-2.6.2-c5be98c92fc2013eb9a592822d0a99cf807bd378.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\AppData\Local\Android\Sdk\platforms\android-25\optional\org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\org.apache.http.legacy-47fc6134dd4fc2ce3901b87f2ced9bfdf7a30392.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.5\2852e6e05fbb95076fc091f6d1780f1f8fe35e0f\commons-io-2.5.jar"
+        revision="25.0.3"
+        sha1="2852e6e05fbb95076fc091f6d1780f1f8fe35e0f">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\commons-io-2.5-f5b448ec626969ddd0b425216c56c9d3f84baf6a.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\92e9b96ee7e29e296e6b659aec602633fe029784\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-17fa8270319fe74283ea1cf26bda142ad0847b0c.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\8a54288dcda2d1b40abcd3c6630e3414bf88a2e0\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-3ddd6d6dad336aded3c5db54be1f2a3f790b0799.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-annotations-25.3.1-b8922b10a21fe9b4ca70d80afbcbb260f02865e1.jar" />
+    </item>
+    <item
+        jar="C:\Users\tonyd\.android\build-cache\18d58def6009e487f99297cb99fb4276e544548a\output\jars\classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\tonyd\Documents\GitHub\GTI785_MusicPlayer\MusicPlayerGTI785\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\classes-2eac4cfd20ecc1da960f2a0b7a531fc24a59154c.jar" />
+    </item>
+
+</items>
